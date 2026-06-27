@@ -1,6 +1,13 @@
 🧠 ThinkDesk AI
 
-An Autonomous Productivity Agent for the Modern Professional
+
+An AI-powered Autonomous Productivity Agent 
+
+## 📄 Documentation
+
+👉 **Project Documentation (Google Docs):**
+https://docs.google.com/document/d/1bjae6rxtqCKBudSAlrbeBfFxWqNcW6Cq16EneFSbzgQ/edit?usp=sharing
+An Autonomous Productivity Agent for the Modern Professional.
 
 The industry doesn’t have a productivity problem.
 It has a coordination and cognitive overload crisis.
